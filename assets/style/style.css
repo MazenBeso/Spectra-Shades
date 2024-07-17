@@ -352,15 +352,6 @@ footer{
 }
 
 
-/* @media screen and (max-width: 341px) {
-    #user2{
-        left: 180px;
-    }
-    #user3{
-
-    }
-} */
-
 @media screen and (max-width: 340px) {
     #user1{
         right: 60px;
@@ -385,6 +376,15 @@ footer{
     }
 }
 
+@media screen and (max-width: 391px) {
+    #user2{
+        left: 230px;
+    }
+    #user3{
+        left: 245px;
+    }
+}
+
 @media screen and (max-width: 431px) {
     #user1 {
             right: 60px;
@@ -392,12 +392,12 @@ footer{
         }
     
         #user2 {
-            left: 270px;
+            left: 230px;
             bottom: 5px;
         }
     
         #user3 {
-            left: 285px;
+            left: 245px;
             bottom: 5px;
         }
 }
