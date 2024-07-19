@@ -378,7 +378,7 @@ footer{
         width: 100%;
     }
     .mazen{
-        width: 50%;
+        font-size: small;
     }
     .linked{
         margin-left: 14px;
@@ -391,6 +391,9 @@ footer{
     }
     #user3{
         left: 245px;
+    }
+    .mazen{
+        font-size: small;
     }
 }
 
@@ -409,6 +412,9 @@ footer{
             left: 245px;
             bottom: 5px;
         }
+        .mazen{
+        font-size: small;
+    }
 }
 
 /* @media screen and (max-width: 970px) {
